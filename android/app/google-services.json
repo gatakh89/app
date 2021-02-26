@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1065919510011",
+    "project_id": "notification-lecture-fee8e",
+    "storage_bucket": "notification-lecture-fee8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065919510011:android:549d1224a384691f28075e",
+        "android_client_info": {
+          "package_name": "com.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065919510011-ofek0jeafe8h8c7hhveqvr4coiga5v77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-ttvYT2JSr6T08nK3CTRVia93xbvIBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065919510011-ofek0jeafe8h8c7hhveqvr4coiga5v77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065919510011:android:3f5356e2908d477628075e",
+        "android_client_info": {
+          "package_name": "com.trip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065919510011-ofek0jeafe8h8c7hhveqvr4coiga5v77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT-ttvYT2JSr6T08nK3CTRVia93xbvIBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065919510011-ofek0jeafe8h8c7hhveqvr4coiga5v77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
